@@ -39,7 +39,7 @@ To derive insights on regional and product-level performance, sales methods, and
 - Profit margin distribution
 - Sales method trends
 
-## 🧩 To Do (Optional Enhancements)
+## 🧩 Project Contains
 
 - Build a dashboard in the "DASHBOARD" sheet
 - Add slicers for dynamic filtering
